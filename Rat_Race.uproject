@@ -3,6 +3,16 @@
 	"EngineAssociation": "{7FB2B709-4852-1465-942B-29B2B4DF6527}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Rat_Race",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
